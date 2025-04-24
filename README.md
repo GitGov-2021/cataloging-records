@@ -10,7 +10,24 @@ Library Technical Services (LTS) has moved two collections to the new repository
 
 - CGP MARC Record Sets, renamed to [CGP Records Monthly Files](https://github.com/usgpo/cataloging-records-CGP-maintenance-files/tree/main/CGP_Records_Monthly_Files)
 - [Online Version Records without Item Numbers](https://github.com/usgpo/cataloging-records-CGP-maintenance-files/tree/main/Online_version_records_without_item_numbers)
+-----------
 
+## Retired Collections
+
+MCS has retired these collections:
+
+- CGP MARC Record Sets
+- CGP Records with Updated PURLs
+- Online Version Records without Item Numbers
+
+Please check the list to see if the collections are available in another repository.
+
+| *Name*       | *No. of Records*       | Current Repository | *Record Formats*       | *Cataloging Dates*
+|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------
+| CGP MARC Record Sets | 22,176 | [Catalog of U.S. Government Publications (CGP) Records Maintenance Files](https://github.com/usgpo/cataloging-records-CGP-maintenance-files) | All | Previous six months
+| CGP Records with Updated PURLs | 170,501 | None | Online | Up to 10/31/2020
+| Online Version Records without Item Numbers | 4,959 | [Catalog of U.S. Government Publications (CGP) Records Maintenance Files](https://github.com/usgpo/cataloging-records-CGP-maintenance-files) | Online | All
+-----------
 ## Collections List
 
 The twelve collections in the repository have been created based on various criteria, such as issuing agencies, publication formats, and topical and chronological coverage. All collections contain one or more of these resources:
@@ -44,21 +61,16 @@ To download the files, use the "Code" button in the right-hand section of this p
 | **Total Number of Records** | **27,664**
 ------------
 
-## Retired Collections
+## How to Use the Repository Resources
 
-MCS has retired these collections:
+Downloading Instructions
+When downloading files from the repository, all files in the repository are included in the downloaded zip file.
 
-- CGP MARC Record Sets
-- CGP Records with Updated PURLs
-- Online Version Records without Item Numbers
-
-Please check the list to see if the collections are available in another repository.
-
-| *Name*       | *No. of Records*       | Current Repository | *Record Formats*       | *Cataloging Dates*
-|:-----------------|:-----------------|:-----------------|:-----------------|:-----------------
-| CGP MARC Record Sets | 22,176 | [Catalog of U.S. Government Publications (CGP) Records Maintenance Files](https://github.com/usgpo/cataloging-records-CGP-maintenance-files) | All | Previous six months
-| CGP Records with Updated PURLs | 170,501 | None | Online | Up to 10/31/2020
-| Online Version Records without Item Numbers | 4,959 | [Catalog of U.S. Government Publications (CGP) Records Maintenance Files](https://github.com/usgpo/cataloging-records-CGP-maintenance-files) | Online | All
+In the top right-hand section of this page, click on the “Code” button.
+Click on “Download ZIP.”
+A ZIP file with all files in the repository will be downloaded.
+Unzip the file with a zip utility.
+The zip file can also be downloaded directly at this link: https://github.com/usgpo/cataloging-records/archive/refs/heads/main.zip
 ------------
 ## Other LSCM Repositories
 
